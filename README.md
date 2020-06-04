@@ -7,4 +7,3 @@ Currently the config is being cleaned up and refurbished, we seek any feedback a
 
 Place the file into your Team Fortress 2/tf/cfg directory.
 Make sure to rename it to autoexec.cfg if you would like to automatically load at game start up.
-The optional.cfg is not required, if you choose to use it please uncomment out the "exec optimized.cfg" line in madewithlove.cfg
